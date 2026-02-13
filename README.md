@@ -1,1 +1,2 @@
 # Cuddly-disco
+<!doctype html>
